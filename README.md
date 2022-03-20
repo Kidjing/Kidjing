@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Kidjing 👋
 
-<!--
-**Kidjing/Kidjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **Kidjing/Kidjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<!-- Here are some ideas to get you started: -->
+
+> enjoy life && enjoy learning
+
+- 👑 I had the internship in Tencent, VMware, Kuaishou.
+- 🌱 I’m currently learning English and Java.
+- 🍥 Language used: JavaScript, TpyeScript, C++.
+- 😄 I enjoy reading books and running.
+<!-- - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
